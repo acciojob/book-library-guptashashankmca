@@ -25,6 +25,11 @@ button{
 	width:100%;
 	padding:10px;
 }
-.book div{
-	background-color:rgb(255, 255, 255);
+.book p {
+    color: rgb(119, 119, 119); /* color for the author */
+}
+
+.book .price {
+    background-color: rgb(46, 204, 113); /* background color for the price */
+    color: rgb(255, 255, 255); /* text color for the price */
 }
